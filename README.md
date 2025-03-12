@@ -20,6 +20,4 @@ cuando la lista de amigos este completa debes presionar el boton de sortear y el
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
 * **Carlos Sanchez**
